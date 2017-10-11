@@ -1,0 +1,22 @@
+{
+  "name": "containers",
+  "version": "1.0.0",
+  "description": "Container components",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-containers"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblack12/test-containers.git"
+  },
+  "keywords": [
+    "containers"
+  ],
+  "author": "sam black",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sblack12/test-containers/issues"
+  },
+  "homepage": "https://github.com/sblack12/test-containers#readme"
+}
