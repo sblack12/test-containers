@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/sblack12/test-containers/issues"
   },
+  "peerDependencies": {
+      "waypoints" : "^4.0.1",
+      "tether" :"^1.4.0"
+  },
   "homepage": "https://github.com/sblack12/test-containers#readme"
 }
